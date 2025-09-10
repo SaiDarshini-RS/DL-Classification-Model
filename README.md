@@ -37,9 +37,9 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ## PROGRAM
 
-### Name: CHARU NETHRA R
+### Name: SAI DARSHINI R S
 
-### Register Number: 212223230035
+### Register Number: 212223230178
 
 ```py
 import torch
